@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"SKYLINE Printers"
+	"version"			"1.4"
+	"author_name"			"TheRowan, Bluey"
+	"author_emai"			""
+	"author_url"			"http://skylinegaming.proboards.com/"
+	"info"				"DarkRP SKYLINE Money Printers"
+	"override"			"0"
+}
